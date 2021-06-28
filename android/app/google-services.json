@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034499771689",
+    "project_id": "fre-a-tec",
+    "storage_bucket": "fre-a-tec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034499771689:android:05c88d73d97e68c979bb38",
+        "android_client_info": {
+          "package_name": "com.freetea.fre_a_tec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034499771689-k5qjl0qb8pcs94lh1soq6t7pbahcsbra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTYwtOvkGknCNbbVhGB81EzFyGcIWY1vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034499771689-k5qjl0qb8pcs94lh1soq6t7pbahcsbra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

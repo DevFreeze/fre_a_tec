@@ -1,0 +1,1 @@
+enum UserStatus { unknown, notInDB, inDBWithoutPassword, inDatabase }
